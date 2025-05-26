@@ -58,3 +58,6 @@ Input: [[1, 2], [3, 4], [5]] → Output: [1, 2, 3, 4, 5]
 
 7. Find all pairs that sum to a target
 Input: [1, 2, 3, 4, 5], Target = 6 → Output: [(1, 5), (2, 4)]
+
+8. Java Program: Insert _ between lowercase and uppercase letters in a string.
+ Example: Input: "Oracle DBA" , Output: "Oracle_DBA"
